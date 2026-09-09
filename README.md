@@ -1,3 +1,5 @@
+## Restaurant Ratings Analysis
+
 An interactive Power BI project analyzing restaurant ratings, consumer demographics, dining preferences, hospitality factors, and restaurant performance based on consumer data from Mexico (2012).
 
 ---
