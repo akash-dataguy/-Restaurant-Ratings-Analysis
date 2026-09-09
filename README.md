@@ -6,15 +6,15 @@ An interactive Power BI project analyzing restaurant ratings, consumer demograph
 
 ## 📑 Table of Contents
 
-* [Case Study](#case-study)
-* [Dataset Description](#dataset-description)
-* [ER Diagram](#er-diagram)
-* [Data Cleaning](#data-cleaning)
-* [Calculated Fields](#calculated-fields)
-* [Data Analysis](#data-analysis)
-* [Dashboard](#dashboard)
-* [Tools & Technologies](#tools--technologies)
-* [Key Takeaways](#key-takeaways)
+- [Case Study](#-case-study)
+- [Dataset Description](#-dataset-description)
+- [ER Diagram](#-er-diagram)
+- [Data Cleaning](#-data-cleaning)
+- [Calculated Fields](#-calculated-fields)
+- [Data Analysis](#-data-analysis)
+- [Dashboard](#-dashboard)
+- [Tools & Technologies](#-tools--technologies)
+- [Key Takeaways](#-key-takeaways)
 
 ---
 
