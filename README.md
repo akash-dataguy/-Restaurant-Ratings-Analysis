@@ -1,5 +1,3 @@
-<img width="1358" height="782" alt="Screenshot 2026-09-09 180940" src="https://github.com/user-attachments/assets/9b09d364-de7b-4736-8368-c577b6919b9d" /># 🍽️ Restaurant Ratings Analysis
-
 An interactive Power BI project analyzing restaurant ratings, consumer demographics, dining preferences, hospitality factors, and restaurant performance based on consumer data from Mexico (2012).
 
 ---
